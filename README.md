@@ -1,11 +1,10 @@
-> Aggregation Pipeline Operators to spring-boot-starter-data-mongodb
-mongodb聚合管道运算符转换为对应的spring-boot-starter-data-mongodb代码片段
-**操作符及案例对应官方文档目录顺序和内容**,*除第一个示例外不在给出文档和结果,仅显示聚合操作*(有错误请随时指出)
-[官网文档地址](https://docs.mongodb.com/manual/reference/operator/aggregation/#aggregation-pipeline-operators)
-[中文文档地址](https://www.docs4dev.com/docs/zh/mongodb/v3.6/reference/reference-operator-aggregation.html)
+> Aggregation Pipeline Operators to spring-boot-starter-data-mongodb<br/>
+mongodb聚合管道运算符转换为对应的spring-boot-starter-data-mongodb代码片段<br/>
+**操作符及案例对应官方文档目录顺序和内容**,*除第一个示例外不在给出文档和结果,仅显示聚合操作*(有错误请随时指出)<br/>
+[官网文档地址](https://docs.mongodb.com/manual/reference/operator/aggregation/#aggregation-pipeline-operators)<br/>
+[中文文档地址](https://www.docs4dev.com/docs/zh/mongodb/v3.6/reference/reference-operator-aggregation.html)<br/>
 
-@[TOC]( )
-# mongodb聚合管道运算符
+@[TOC](mongodb聚合管道运算符)
 ## $abs
 [$abs中文文档链接](https://www.docs4dev.com/docs/zh/mongodb/v3.6/reference/reference-operator-aggregation-abs.html)
 集合ratings包含以下文档：
